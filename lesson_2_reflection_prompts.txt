@@ -4,3 +4,7 @@ How is the staging area different from the working directory and the repository?
 In staging area are only the files tracked for your commit. It is useful to separe the logical changes instead of keeping track of all your files blindly.
 How can you use the staging area to make sure you have one commit per logical change?
 You control the files you want to add in the staging area, so the commit is only these files.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you have parallel updates to do to the code or different versions with the same base code, you can create branches for each update set.
+How do the diagrams help you visualize the branch structure?
+Some commits aren't reachable though git log, so having diagrams gives overviews of the whole project with all its commits.
