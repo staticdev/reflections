@@ -21,9 +21,9 @@ It is a way to know which changes were made at the remote repository and it is u
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Doing a shared folder in Dropbox for example. It would be harder to work in the same parts and to keep track of changes. It would be easier not to worrying about branches and configuration.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When making multiple changes (features, bug-fixes) or working in groups the use of branches are important to track the changes and allow a clear separation for think each feature individually. For individual changes, the use of only master is easier.
