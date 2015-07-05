@@ -16,7 +16,7 @@ Branching is the standard GIT way of creating changes to a working project. Clon
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+It is a way to know which changes were made at the remote repository and it is useful for working offline on conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
